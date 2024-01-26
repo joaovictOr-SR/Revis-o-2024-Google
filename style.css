@@ -21,7 +21,7 @@ li {
 
 li a {
     color: white;
-    padding: 10px;
+    padding: 10px 5px;
     text-decoration: none;
 }
 
@@ -44,14 +44,15 @@ li a {
 .apps {
     width: 77px;
     margin-top: -20px;
-    margin-left: -14px;
+    margin-left: -5px;
 }
 
 .icon {
     width: 32px;
     height: 30px;
     border-radius: 39px;
-    margin-top: 4px;
+    margin-top: -7px;
+    padding: 14px;
 }
 
 .search-container {
